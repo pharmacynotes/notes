@@ -8,6 +8,26 @@ a {
   text-decoration: none;
 }
 
+.font-m-b {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 400;
+  font-weight: 900;
+
+}
+
+.text-c-dark {
+  font-style: normal;
+  color: black;
+  font-size: 1rem;
+}
+.donate {
+  text-align:center;
+  color:red;
+  font-weight: bold;
+
+}
+style=""
+
 .terabox {
   text-align: center;
   width: 50px;
