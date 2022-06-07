@@ -182,13 +182,13 @@ style=""
 }
 
 .insta-logo {
-  display: block;
+  display:inline-inline-block;
  margin-left: auto;
  margin-right: auto;
 
   text-align: center;
-  width: 15%;
-  height: 15%;
+  width: 60px;
+  height: 60px;
   border-radius: 10%;
 }
 
